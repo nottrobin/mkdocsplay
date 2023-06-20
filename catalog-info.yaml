@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: mkdocsplay
   annotations:
-    backstage.io/techdocs-ref: dir:docs
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: experimental
